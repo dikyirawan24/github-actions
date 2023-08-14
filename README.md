@@ -12,6 +12,6 @@ Repoistory to host all of Fuel's reusable workflows
 | [setups/npm](./setups/npm/)       | Setup npm deployment requirements on CI                          |
 | [changeset](./changeset/)         | Reusable workflow for create changesets and release npm packages |
 
-## License
+## License 
 
 The primary license for this repo is `Apache 2.0`, see [`LICENSE`](./LICENSE.md).
